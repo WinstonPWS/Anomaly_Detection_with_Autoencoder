@@ -6,6 +6,8 @@
 
 •	Used ResNet to identify anomaly object
 
+<br/>
+
 **Key concepts**: autoencoder, ANN (tensorflow.keras), unsupervised learning, anomaly detection, computer vision, ResNet
 
 <br/>
